@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++17 -w   -g   -shared -Wl,-soname,libgtest_maind.so -o ../lib/libgtest_maind.so CMakeFiles/gtest_main.dir/src/gtest_main.cc.o  -Wl,-rpath,/home/nmnguyen/NUS/dConstruct/velo2cam_calibration_no_ros/build/gtest/lib ../lib/libgtestd.so -lpthread 

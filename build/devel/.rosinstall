@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nmnguyen/NUS/dConstruct/velo2cam_calibration_no_ros/build/devel/setup.sh
